@@ -18,6 +18,7 @@ Must have installed for quick setup.
 
 ### UX
 
+- [mobweb / MobWeb_LogoutRedirect](https://github.com/mobweb/MobWeb_LogoutRedirect) - A simple Magento extension that allows to define a relative URL where a customer will be forwarded after they've logged out.
 
 ----
 
@@ -38,8 +39,7 @@ The experience of your staff is just as important to your business. Why would yo
 ### Must Haves
 
 - [Vinai / customer-registration-ip](https://github.com/Vinai/customer-registration-ip) - Magento extension to display a customer's IP used during registration.
-- [mobweb / MobWeb_LogoutRedirect](https://github.com/mobweb/MobWeb_LogoutRedirect) - A simple Magento extension that allows to define a relative URL where a customer will be forwarded after they've logged out.
-
+- [Loewenstark / EditGuestOrder](https://github.com/Loewenstark/EditGuestOrder) - No description really needed here.
 
 
 ----
