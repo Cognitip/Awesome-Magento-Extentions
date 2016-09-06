@@ -24,8 +24,8 @@ Must have installed for quick setup.
 ### Internal UX / DE
 The experience of your staff is just as important to your business. Why would you want to make it harder?
 
-[pointia / Biztech_Easymaintanance](https://github.com/pointia/Biztech_Easymaintanance) - Quickly put a single store into maintance mode.
-[ExtensionsStore / RestrictedProduct](https://github.com/ExtensionsStore/RestrictedProduct) - Restrict products from being shipped to specific regions.
+- [pointia / Biztech_Easymaintanance](https://github.com/pointia/Biztech_Easymaintanance) - Quickly put a single store into maintance mode.
+- [ExtensionsStore / RestrictedProduct](https://github.com/ExtensionsStore/RestrictedProduct) - Restrict products from being shipped to specific regions.
 
 
 ----
@@ -37,8 +37,8 @@ The experience of your staff is just as important to your business. Why would yo
 
 ### Must Haves
 
-[Vinai / customer-registration-ip](https://github.com/Vinai/customer-registration-ip) - Magento extension to display a customer's IP used during registration.
-[mobweb / MobWeb_LogoutRedirect](https://github.com/mobweb/MobWeb_LogoutRedirect) - A simple Magento extension that allows to define a relative URL where a customer will be forwarded after they've logged out.
+- [Vinai / customer-registration-ip](https://github.com/Vinai/customer-registration-ip) - Magento extension to display a customer's IP used during registration.
+- [mobweb / MobWeb_LogoutRedirect](https://github.com/mobweb/MobWeb_LogoutRedirect) - A simple Magento extension that allows to define a relative URL where a customer will be forwarded after they've logged out.
 
 
 
