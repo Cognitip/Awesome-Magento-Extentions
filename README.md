@@ -27,7 +27,7 @@ Must have installed for quick setup.
 ----
 
 ### Internal UX / DE
-The experience of your staff is just as important to your business. Why would you want to make it harder?
+The experience of your staff is just as important to your business. Why wouldn't you want to make it easier?
 
 - [pointia / Biztech_Easymaintanance](https://github.com/pointia/Biztech_Easymaintanance) - Quickly put a single store into maintance mode.
 - [ExtensionsStore / RestrictedProduct](https://github.com/ExtensionsStore/RestrictedProduct) - Restrict products from being shipped to specific regions.
