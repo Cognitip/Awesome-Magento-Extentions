@@ -7,7 +7,8 @@ This is a list of extentions you can use to build an awesome Magento site.
 ### Required
 Must have installed for quick setup.
 
-- [Modman](https://github.com/colinmollenhour/modman) - [Install Instructions](https://github.com/colinmollenhour/modman#installation)
+- [Modman](https://github.com/colinmollenhour/modman) - [Install Instructions](https://github.com/colinmollenhour/modman#installation) - Modularize extensions using symlinks.
+- [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer) - Composer installer for Magento modules.
 
 ----
 
